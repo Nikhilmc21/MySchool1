@@ -1,0 +1,32 @@
+nav{
+background-color: gray;
+margin-bottom:-2;
+padding-bottom: -2;
+}
+#amaatrapic{
+width:100%;
+height:780px;
+}
+marquee{
+height:20px;
+background-color: blue;
+width:100%;
+vertical-align:middle;
+margin-top:-2;
+}
+#ggg{
+border-radius:100px;
+margin-left: 10px;
+padding-bottom: 200px;
+}
+#thespecialhr{
+width:10px;
+height:500px;
+float: right;
+}
+#gggg{
+float: ;
+}
+#headers{
+padding-left:10px;
+}
